@@ -15,6 +15,3 @@ logging.basicConfig(
     datefmt='%Y-%m-%d %H:%M:%S'
 )
 
-if __name__ == "__main__":
-    logging.info("Logging has started")
-    logging.info("This is an info message")
